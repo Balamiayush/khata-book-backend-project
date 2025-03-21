@@ -1,0 +1,4 @@
+milk = 90
+computer = 10 
+ram - 20 
+sham = 40 
